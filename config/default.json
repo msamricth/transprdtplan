@@ -1,9 +1,9 @@
 {
   "twitter" : {
-      "consumer_key" : "2y4eFJTrYRFIdX6FVAXS8LwVM",
-      "consumer_secret" : "5JMNlBH96Ee0AU3EEjP9g6Qoj47wssXCQb36iNOUwk3j84JOt0",
-      "access_token_key" : "789148563146153984-T8cJe0Vj9JjALIkz39FV7tUS08bM4sS",
-      "access_token_secret" : "ogVs7O1fQ71x6S8XheWBaREqCvx6emmuYkKeFGWt4WNyG"
+      "consumer_key" : "eGlzBx3IeavUuh2MDHlZaNwpP",
+      "consumer_secret" : "MvGN2wfdZSUi5E1dePnlDaj57CD1vpmEk92LpwRNk3FBoav1Qr",
+      "access_token_key" : "789148563146153984-nEk0YkZKuH0X67Q1TQ6Lhtv0m2evD8Q",
+      "access_token_secret" : "cf9oS5AuuzcFtpOSAiQtez7DfBlVeQdQwUjdpyyZB2KSp"
   },
   "keywords" : "tpp TPP", 
   "match" : "TPP",
