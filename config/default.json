@@ -1,9 +1,9 @@
 {
   "twitter" : {
-      "consumer_key" : "eGlzBx3IeavUuh2MDHlZaNwpP",
-      "consumer_secret" : "MvGN2wfdZSUi5E1dePnlDaj57CD1vpmEk92LpwRNk3FBoav1Qr",
-      "access_token_key" : "789148563146153984-nEk0YkZKuH0X67Q1TQ6Lhtv0m2evD8Q",
-      "access_token_secret" : "cf9oS5AuuzcFtpOSAiQtez7DfBlVeQdQwUjdpyyZB2KSp"
+      "consumer_key" : "vTZmB8TYDSYPzff8I3E97Zfft",
+      "consumer_secret" : "ZxN6EJCSYSnrBpdsprGcMYG90355pB7ppGWfIgNNHtzQWA7kK5",
+      "access_token_key" : "789148563146153984-FKyXtnXVE61SSg2AaqTetRgYABCIsll",
+      "access_token_secret" : "qh5qEttRiIQ4okRPuhgVF2MMqOUSr7NqTylzzGDBKG9Gh"
   },
   "keywords" : "tpp TPP", 
   "match" : "TPP",
@@ -596,6 +596,6 @@
 "@MikeFroman #TPP is not a left-right issue, it’s an issue of right and wrong! #StopTPP",
 "@MikeFroman #TPP is mostly not about trade, it’s about giving multinational corporations 'undreamed-of powers' over our economy & our laws"
   ],
-  "max_replies_per_minute" : 6,
+  "max_replies_per_minute" : 1,
   "in_reply_to" : true
 }
